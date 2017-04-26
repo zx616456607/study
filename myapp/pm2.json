@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "script": "",
+      "exec_mode":"cluster",
+      "instances":1,
+      "watch_options": {
+        "followSymlinks": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.verticalCenter{position: absolute;top:50%;transform: translateY(-50%);}
+.clearFix:after{clear: both;content: '';display: block;visibility: hidden;height: 0;}
+.left{float: left}
+.right{float: right}
+.ant-back-top-inner {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  border-radius: 4px;
+  background-color: #1088e9;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}

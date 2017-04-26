@@ -1,0 +1,25 @@
+* {margin:0;padding:0;word-break:break-all;}
+html,body{height:100%; font-size:100%;}
+body{font:14px "Arial","Microsoft YaHei",Verdana,Helvetica,sans-serif;text-align:left;margin:0; }
+table{font:14px "Arial","Microsoft YaHei",Verdana,Helvetica,sans-serif;text-align:left;margin:0;padding:0;border:0;color:#000;}
+body,figure,h1,h2,h3,h4,h5,h6,p,pre,blockquote,form,fieldset,legend,input,button,select,textarea {margin:0;padding:0;font-family:"Arial","Microsoft YaHei";font-size:14px;}
+address,caption,cite,code,dfn,em,var{font-style:normal;font-weight:normal;}
+ul,ol,li,dl,dt,dd{margin:0; padding:0;border:0;list-style:none;}
+article,aside,details,figcaption,figure,footer,header,nav,section{display: block;}
+abbr[title],dfn[title] {border-bottom:1px dotted;cursor:help;}
+pre,code,kbd,samp{font-family:monospace,sans-serif;_font-family:'Courier New',monospace,sans-serif;font-size: 1em;}
+pre{white-space:pre;/*CSS2*/white-space:pre-wrap;/*CSS2.1*/white-space:pre-line;/*CSS3*/word-wrap:break-word;/*IE*/}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+audio[controls],canvas,video{display:inline-block;*display:inline;*zoom:1;}
+input,textarea{outline:none;}
+textarea{resize:none;overflow:auto;}
+input[type="checkbox"],input[type="radio"]{vertical-align:middle;}
+/*input[type="checkbox"]{width:15px;height:15px;}*/
+input[type="button"],input[type="submit"]{ cursor:pointer;}
+input[type="text"]{cursor: auto;}
+input::-ms-clear{display:none;}
+input::-ms-reveal{display:none;}
+input:-webkit-autofill,textarea:-webkit-autofill,select:-webkit-autofill{-webkit-box-shadow: 0 0 0 1000px white inset;}
+a:link,a:visited{text-decoration:none;cursor:pointer;outline:none; }
+a:hover,a:active {text-decoration:none;cursor:pointer;}
