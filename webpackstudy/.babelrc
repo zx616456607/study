@@ -17,8 +17,7 @@
   "plugins":
   [
     ["import", [
-                  { "libraryName": "antd", "style": "css" },
-                  { "libraryName": "bootstrap", "style": "css"}
+                  { "libraryName": "antd", "style": "css" }
                 ]
     ],
     "transform-decorators-legacy"

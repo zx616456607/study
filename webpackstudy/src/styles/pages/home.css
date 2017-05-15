@@ -1,3 +1,11 @@
 .home{
   height: 1000px;
 }
+.bfc{
+  display: inline-block;
+}
+.bfc span{
+  margin:10px;float:left;
+}
+
+:global(.test){color:red}
